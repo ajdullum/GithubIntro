@@ -11,24 +11,44 @@ Per 5: Digital Electronics, Rm B12
 Per 6: AP Comp Sci, Rm B12
 
 Team member 1
-
-
-Team member 2
-
-
-
-Team member 3
-
-
-
-Team member 4
-
 Name: Alex Dullum
-Per 1: Honours Chemistry, S1
+Per 1: Honnors Chemestry, S1
 Per 2: AP Comp Sci, Rm B12
 Per 3: AP Calculus AB, B6
 Per 4: ERWC, 122
 Per 5: Theater Tech 1/2, 601
 Per 6: Economics. 406
+
+Team member 2
+Name: Edan Rosenthal
+Per 1: Technology Support, Rm 407
+Per 2: AP Comp Sci, Rm B13
+Per 3: AP Government, Rm P
+Per 4: AP Calculus AB, Rm B6
+Per 5: ERWC, Rm K
+Per 6: Assigned Time Home
+
+Team member 3
+Name: Miles Outlaw
+Per 1: Ceramics, Rm 410
+Per 2: AP Computer Science, Rm B13
+Per 3: ERWC, Rm 404
+Per 4: AP Statistics, Rm B10
+Per 5: Art of Film, Rm 114
+Per 6: Economics, Rm 406
+
+Team member 4
+Name: Zabdiel Flores
+Per 1: Contemporary Voc, Rm 307 
+Per 2: AP Comp Sci, Rm B13
+Per 3: Comp Graphics, Rm I
+Per 4: Art of Film, Rm 114
+Per 5: Government, Rm B1
+Per 6: AP Statistics, Rm B10
+
+
+
+
+
 
 
